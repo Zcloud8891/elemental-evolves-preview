@@ -1,0 +1,429 @@
+{
+  "units": [
+    {
+      "file": "ee_fire_spark_idle0_r.png",
+      "element": "fire",
+      "form": "spark",
+      "tier": 1,
+      "src": [
+        309,
+        512
+      ],
+      "out": [
+        154,
+        256
+      ],
+      "bytes": 62309,
+      "magentaDespill": 0,
+      "padded": false
+    },
+    {
+      "file": "ee_fire_cinder_idle0_r.png",
+      "element": "fire",
+      "form": "cinder",
+      "tier": 2,
+      "src": [
+        499,
+        512
+      ],
+      "out": [
+        250,
+        256
+      ],
+      "bytes": 94057,
+      "magentaDespill": 0,
+      "padded": false
+    },
+    {
+      "file": "ee_fire_blaze_idle0_r.png",
+      "element": "fire",
+      "form": "blaze",
+      "tier": 3,
+      "src": [
+        410,
+        512
+      ],
+      "out": [
+        205,
+        256
+      ],
+      "bytes": 83589,
+      "magentaDespill": 0,
+      "padded": false
+    },
+    {
+      "file": "ee_fire_inferno_idle0_r.png",
+      "element": "fire",
+      "form": "inferno",
+      "tier": 4,
+      "src": [
+        447,
+        512
+      ],
+      "out": [
+        224,
+        256
+      ],
+      "bytes": 100547,
+      "magentaDespill": 0,
+      "padded": false
+    },
+    {
+      "file": "ee_fire_pyre_idle0_r.png",
+      "element": "fire",
+      "form": "pyre",
+      "tier": 5,
+      "src": [
+        512,
+        237
+      ],
+      "out": [
+        256,
+        118
+      ],
+      "bytes": 42868,
+      "magentaDespill": 0,
+      "padded": false
+    },
+    {
+      "file": "ee_water_ripple_idle0_r.png",
+      "element": "water",
+      "form": "ripple",
+      "tier": 1,
+      "src": [
+        281,
+        512
+      ],
+      "out": [
+        140,
+        256
+      ],
+      "bytes": 59525,
+      "magentaDespill": 0,
+      "padded": false
+    },
+    {
+      "file": "ee_water_tide_idle0_r.png",
+      "element": "water",
+      "form": "tide",
+      "tier": 2,
+      "src": [
+        428,
+        512
+      ],
+      "out": [
+        214,
+        256
+      ],
+      "bytes": 89469,
+      "magentaDespill": 0,
+      "padded": false
+    },
+    {
+      "file": "ee_water_current_idle0_r.png",
+      "element": "water",
+      "form": "current",
+      "tier": 3,
+      "src": [
+        385,
+        511
+      ],
+      "out": [
+        200,
+        256
+      ],
+      "bytes": 67261,
+      "magentaDespill": 0,
+      "padded": true
+    },
+    {
+      "file": "ee_water_torrent_idle0_r.png",
+      "element": "water",
+      "form": "torrent",
+      "tier": 4,
+      "src": [
+        512,
+        473
+      ],
+      "out": [
+        256,
+        236
+      ],
+      "bytes": 108711,
+      "magentaDespill": 0,
+      "padded": false
+    },
+    {
+      "file": "ee_water_deep_idle0_r.png",
+      "element": "water",
+      "form": "deep",
+      "tier": 5,
+      "src": [
+        377,
+        512
+      ],
+      "out": [
+        188,
+        256
+      ],
+      "bytes": 80369,
+      "magentaDespill": 0,
+      "padded": false
+    },
+    {
+      "file": "ee_earth_pebble_idle0_r.png",
+      "element": "earth",
+      "form": "pebble",
+      "tier": 1,
+      "src": [
+        297,
+        511
+      ],
+      "out": [
+        149,
+        256
+      ],
+      "bytes": 63372,
+      "magentaDespill": 21,
+      "padded": false
+    },
+    {
+      "file": "ee_earth_bramble_idle0_r.png",
+      "element": "earth",
+      "form": "bramble",
+      "tier": 2,
+      "src": [
+        375,
+        512
+      ],
+      "out": [
+        188,
+        256
+      ],
+      "bytes": 85853,
+      "magentaDespill": 0,
+      "padded": false
+    },
+    {
+      "file": "ee_earth_crag_idle0_r.png",
+      "element": "earth",
+      "form": "crag",
+      "tier": 3,
+      "src": [
+        274,
+        512
+      ],
+      "out": [
+        137,
+        256
+      ],
+      "bytes": 73203,
+      "magentaDespill": 0,
+      "padded": false
+    },
+    {
+      "file": "ee_earth_quake_idle0_r.png",
+      "element": "earth",
+      "form": "quake",
+      "tier": 4,
+      "src": [
+        511,
+        502
+      ],
+      "out": [
+        256,
+        251
+      ],
+      "bytes": 108514,
+      "magentaDespill": 41,
+      "padded": false
+    },
+    {
+      "file": "ee_earth_mountain_idle0_r.png",
+      "element": "earth",
+      "form": "mountain",
+      "tier": 5,
+      "src": [
+        391,
+        512
+      ],
+      "out": [
+        196,
+        256
+      ],
+      "bytes": 95255,
+      "magentaDespill": 60,
+      "padded": false
+    },
+    {
+      "file": "ee_light_gleam_idle0_r.png",
+      "element": "light",
+      "form": "gleam",
+      "tier": 1,
+      "src": [
+        220,
+        512
+      ],
+      "out": [
+        110,
+        256
+      ],
+      "bytes": 54523,
+      "magentaDespill": 0,
+      "padded": false
+    },
+    {
+      "file": "ee_light_lumen_idle0_r.png",
+      "element": "light",
+      "form": "lumen",
+      "tier": 2,
+      "src": [
+        386,
+        512
+      ],
+      "out": [
+        200,
+        256
+      ],
+      "bytes": 91480,
+      "magentaDespill": 0,
+      "padded": true
+    },
+    {
+      "file": "ee_light_radiant_idle0_r.png",
+      "element": "light",
+      "form": "radiant",
+      "tier": 3,
+      "src": [
+        364,
+        512
+      ],
+      "out": [
+        182,
+        256
+      ],
+      "bytes": 69008,
+      "magentaDespill": 0,
+      "padded": false
+    },
+    {
+      "file": "ee_light_solaris_idle0_r.png",
+      "element": "light",
+      "form": "solaris",
+      "tier": 4,
+      "src": [
+        332,
+        512
+      ],
+      "out": [
+        166,
+        256
+      ],
+      "bytes": 73189,
+      "magentaDespill": 0,
+      "padded": false
+    },
+    {
+      "file": "ee_light_crown_idle0_r.png",
+      "element": "light",
+      "form": "crown",
+      "tier": 5,
+      "src": [
+        512,
+        450
+      ],
+      "out": [
+        256,
+        225
+      ],
+      "bytes": 87880,
+      "magentaDespill": 0,
+      "padded": false
+    },
+    {
+      "file": "ee_dark_shade_idle0_r.png",
+      "element": "dark",
+      "form": "shade",
+      "tier": 1,
+      "src": [
+        358,
+        512
+      ],
+      "out": [
+        179,
+        256
+      ],
+      "bytes": 61182,
+      "magentaDespill": 0,
+      "padded": false
+    },
+    {
+      "file": "ee_dark_gloom_idle0_r.png",
+      "element": "dark",
+      "form": "gloom",
+      "tier": 2,
+      "src": [
+        292,
+        512
+      ],
+      "out": [
+        146,
+        256
+      ],
+      "bytes": 70668,
+      "magentaDespill": 0,
+      "padded": false
+    },
+    {
+      "file": "ee_dark_dusk_idle0_r.png",
+      "element": "dark",
+      "form": "dusk",
+      "tier": 3,
+      "src": [
+        287,
+        512
+      ],
+      "out": [
+        144,
+        256
+      ],
+      "bytes": 71731,
+      "magentaDespill": 0,
+      "padded": false
+    },
+    {
+      "file": "ee_dark_umbra_idle0_r.png",
+      "element": "dark",
+      "form": "umbra",
+      "tier": 4,
+      "src": [
+        444,
+        512
+      ],
+      "out": [
+        222,
+        256
+      ],
+      "bytes": 100844,
+      "magentaDespill": 0,
+      "padded": false
+    },
+    {
+      "file": "ee_dark_eclipse_idle0_r.png",
+      "element": "dark",
+      "form": "eclipse",
+      "tier": 5,
+      "src": [
+        364,
+        512
+      ],
+      "out": [
+        182,
+        256
+      ],
+      "bytes": 90770,
+      "magentaDespill": 0,
+      "padded": false
+    }
+  ]
+}
